@@ -1,2 +1,2 @@
 # sigkdd
-signed competition
+sigkdd competition
